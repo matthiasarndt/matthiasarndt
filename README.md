@@ -2,9 +2,8 @@
 
 Hello! Welcome to my astrophotography page. Over the past few years I have managed to capture dozens of deep space objects with my small apochromatic refractor. 
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
-![](https://github.com/matthiasarndt/Astrophotography/blob/main/Telescope.PNG)
+![](https://github.com/matthiasarndt/Astrophotography/blob/main/Telescope.PNG = 250x250)
 
 My favourite images can be found below: 
 #### Jupiter and Saturn and their respective moons, captured August 2021
