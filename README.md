@@ -4,7 +4,7 @@ Hello! Welcome to my astrophotography page. Over the past few years I have manag
 
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Telescope.PNG" height="300">
 
-My favourite images can be found below: 
+My favourite images have been attached below: 
 #### Jupiter and Saturn and their respective moons, captured August 2021
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/Jupiter%20%26%20Saturn.png)
 
@@ -19,6 +19,12 @@ My favourite images can be found below:
 
 #### The Pinwheel Galaxy (Messier 101) in the constellation Ursa Major (over 21 million lightyears away!), captured July 2021
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/M101%20%5BData%20-%202021-07-15%5D%20%5BProcess%20-%202021-10-11%5D.png)
+
+#### Bode's Galaxy (Messier 81) and the Cigar Galaxy (Messier 82) in the constellation Ursa Major (around 13 million lightyears away), captured Aril 2022
+![](https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/M81%2CM82%20%5BData%20-%202022-04-09%5D%20%5BProcess%20-%202022-04-10%5D.png)
+
+### The Orion Nebula (Messier 42) in the Constellation Orion, captured December 2020:
+![](https://github.com/matthiasarndt/Astrophotography/blob/main/M42%20%5BData%20-%202020-12-24%5D%20%5BProcess%20-%202022-04-11%5D.png)
 
 #### Progress between March 2020 and September 
 Below is a comparison showing my progress over the past two years. The images on the left were taken in March 2020 and the two on the right in September 2021. The upper target is the Andromeda Galaxy (M31) and the lower target is the Pleiades (M45):
