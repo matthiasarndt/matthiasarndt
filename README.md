@@ -25,7 +25,7 @@ My favourite images have been attached below:
 
 ### The Eagle Nebula (Messier 13) and the Swan Nebula (Messier 12) in the core of the Milkyway galaxy, in the constellation Serpens. The Eagle Nebula (on the right) is home to the famous "Pillars of Creation". 
 
-![](https://github.com/matthiasarndt/Astrophotography/blob/main/M16%20M17%20%5BData%20-%202022-08-06%5D%20%5BProcess%20-%202022-09-17%5D.png_
+![](https://github.com/matthiasarndt/Astrophotography/blob/main/M16%20M17%20%5BData%20-%202022-08-06%5D%20%5BProcess%20-%202022-09-17%5D.png)
 
 ### The Orion Nebula (Messier 42) in the Constellation Orion, captured December 2020:
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/M42%20%5BData%20-%202020-12-24%5D%20%5BProcess%20-%202022-04-11%5D.png)
