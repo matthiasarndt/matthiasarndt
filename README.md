@@ -40,6 +40,9 @@ Below is a comparison showing my progress over the past two years. The images on
 #### The North America Nebula (NGC 7000) in the constellation Cygnus, captured December 2020
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/NGC7000%20%5BData%20-%202020-12-24%5D%20%5BProcess%20-%202021-10-11%5D.png)
 
+### The conjunction of Saturn and Jupiter in December 2020. The two planets aligned almost exactly in the night sky:
+![](https://github.com/matthiasarndt/Astrophotography/blob/main/Saturn-Jupiter%20Conjunction%20%5BData%20-%202020-12-20%5D%20%5BProcess%20-%202020-12-21%5D.png)
+
 #### The Double Cluster (NGC 869) in the constellation Perseus, captured September 2021
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/NGC869%20%26%20NGC884%20%5BData%20-%202021-07-20%5D%20%5BProcess%202021-07-21%5D.png)
 
