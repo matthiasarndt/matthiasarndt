@@ -11,7 +11,7 @@ In my free time, I am avid astronomer. Below are several astronomy related proje
 
 StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
 
-<img src="https://github.com/matthiasarndt/StarTrack/blob/main/reference_to_stacked_gif.gif" width="700"/>
+<img src="https://github.com/matthiasarndt/StarTrack/blob/main/reference_to_stacked_gif.gif" width="1000"/>
 
 # [Astrophotography](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
