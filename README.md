@@ -6,7 +6,7 @@ StarTrack is a Python package providing functionality for Astronomical image sta
 
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/reference_to_stacked_gif.gif" width="800"/>
 
-# [Astrophotography]([https://github.com/matthiasarndt/StarTrack](https://github.com/matthiasarndt/Astrophotography))
+# [Astrophotography](https://github.com/matthiasarndt/Astrophotography)
 
 Over the past few years I have managed to capture dozens of deep space objects with my small apochromatic refractor:
 
