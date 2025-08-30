@@ -1,6 +1,15 @@
+
+### Hello! Welcome to my GitHub page. Below are links to several projects of mine, and my Astrophotography image gallery: 
+
+# [StarTrack]([https://github.com/your-username/other-repo-name](https://github.com/matthiasarndt/StarTrack))
+
+StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
+
+<img src="https://github.com/matthiasarndt/StarTrack/blob/main/reference_to_stacked_gif.gif" width="800"/>
+
 # Astrophotography
 
-Hello! Welcome to my astrophotography page. Over the past few years I have managed to capture dozens of deep space objects with my small apochromatic refractor. 
+Over the past few years I have managed to capture dozens of deep space objects with my small apochromatic refractor:
 
 <img src="https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/Telescope.jpg" height="300">
 
