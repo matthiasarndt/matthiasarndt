@@ -15,9 +15,19 @@ StarTrack is a Python package providing functionality for Astronomical image sta
 
 # [Astrophotography](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
-### Jupiter and Saturn and their respective moons, captured August 2021
+<img src="https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/Telescope.jpg" height="300">
+
+Each imaged is composed of many hours of 1–3-minute exposures which have been combined to boost the final images’ signal to noise ratio. 
+My equipment is summarised below: 
+*	An apochromatic refractor telescope with a focal length of 360mm and a focal ratio of 5.8. 
+*	A mount which can track the night sky in the Right Ascension (RA) axis.
+*	A Nikon DSLR which has been modified to increase sensitivity to Hydrogen Alpha wavelengths.
+
+See all my images [here](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)!
+
+### Jupiter and Saturn and their respective moons
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/Jupiter%20%26%20Saturn.png)
 
-### Elephant's Trunk Nebula (IC 1396) in the constellation Cepheus, captured July 2021
+### Elephant's Trunk Nebula (IC 1396) in the constellation Cepheus
 ![](https://github.com/matthiasarndt/Astrophotography/blob/main/IC%201396%20%5BData%20-%202021-07-17%5D%20%5BProcess%202021-07-20%5D%20%5BSubmission%20Version%5D.png)
 
