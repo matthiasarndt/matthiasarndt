@@ -1,5 +1,5 @@
 
-### Hello! Welcome to my GitHub page. Below are links to several projects of mine, and my Astrophotography image gallery: 
+### Hello! Welcome to my GitHub page. Below are links to several projects of mine:
 
 # [StarTrack](https://github.com/matthiasarndt/StarTrack)
 
