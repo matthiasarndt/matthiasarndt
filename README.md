@@ -1,5 +1,12 @@
 
-### Hello! Welcome to my GitHub page. Below are links to several projects of mine:
+### Hello! Welcome to my GitHub page!
+
+I am a Senior Engineer at MBDA, where I model the next generation of high-performance vehicles and rockets. In my role, I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and vehicle performance modelling. I enjoy contributing to high impact projects, taking the initiative, and solving complex problems. 
+
+In my free time, I am avid astronomer. Below are several astronomy related projects that I have undertaken - including a Python package developed from scratch to process and identify astronomical data, and a gallery showing the images I have taken of many astronomical objects in deep space. 
+
+### Please see the links to my projects below:
+
 # [StarTrack](https://github.com/matthiasarndt/StarTrack)
 
 StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
