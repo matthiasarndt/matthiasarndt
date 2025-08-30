@@ -1,7 +1,7 @@
 
 ### Hello! Welcome to my GitHub page. Below are links to several projects of mine, and my Astrophotography image gallery: 
 
-# [StarTrack]([https://github.com/your-username/other-repo-name](https://github.com/matthiasarndt/StarTrack))
+# [StarTrack](https://github.com/matthiasarndt/StarTrack)
 
 StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
 
