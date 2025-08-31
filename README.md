@@ -1,9 +1,9 @@
 
 ### Hello! Welcome to my GitHub page!
 
-I am a Senior Engineer at MBDA, where I work on the next generation of high-performance rockets and flight vehicles. In my role, I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and performance modelling. I enjoy contributing to high impact projects, taking the initiative, and solving complex problems. 
+I am an Aerospace Engineer, and in my current role I work on the next generation of high-performance rockets and flight vehicles at MBDA. I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and performance modelling.  
 
-In my free time, I am avid astronomer. Below are several astronomy related projects that I have undertaken - including a Python package developed from scratch to process and identify astronomical data, and a gallery showing the images I have taken of many astronomical objects in deep space. 
+In my free time, I am avid astronomer. Below are several astronomy projects that I have worked on - including a Python package developed from scratch to process and identify astronomical data, and a gallery with images I have taken of many Deep Space Objects (DSOs) such as nabulae, galaxies and star clusters. 
 
 ### Please see the links to my projects below:
 
@@ -11,7 +11,7 @@ In my free time, I am avid astronomer. Below are several astronomy related proje
 
 StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
 
-<img src="https://github.com/matthiasarndt/StarTrack/blob/main/reference_to_stacked_gif.gif" width="1000"/>
+<img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/reference_to_stacked_gif.gif" width="1000"/>
 
 # [Astrophotography](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
