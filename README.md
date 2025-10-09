@@ -1,15 +1,15 @@
 
-### Hello! Welcome to my GitHub page!
+## Hello! Welcome to my Github:
 
-I am an Aerospace Engineer, and in my current role I work on the next generation of high-performance rockets and flight vehicles at MBDA. I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and performance modelling.  
+### I am an Aerospace Engineer, with experience designing and modelling high performance rockets and flight vehicles. I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and performance modelling.  
 
-In my free time, I am avid astronomer. Below are several astronomy projects that I have worked on - including a Python package developed from scratch to process and identify astronomical data, and a gallery with images I have taken of many Deep Space Objects (DSOs) such as nabulae, galaxies and star clusters. 
+### In my free time, I am avid astronomer. Below are several astronomy projects that I have worked on - including a Python package developed from scratch to process and identify astronomical data, and a gallery with images I have taken of many Deep Space Objects (DSOs) such as nabulae, galaxies and star clusters. 
 
 ### Please see the links to my projects below:
 
 # [StarTrack](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
 
-StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
+### StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
 
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_reference_to_stacked.gif" width="1000"/>
 
@@ -17,7 +17,7 @@ StarTrack is a Python package providing functionality for Astronomical image sta
 
 <img src="https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/Telescope.jpg" height="300">
 
-Each imaged is composed of many hours of 1–3-minute exposures which have been combined to boost the final images’ signal to noise ratio. 
+### Each imaged is composed of many hours of 1–3-minute exposures which have been combined to boost the final images’ signal to noise ratio. 
 My equipment is summarised below: 
 *	An apochromatic refractor telescope with a focal length of 360mm and a focal ratio of 5.8. 
 *	A mount which can track the night sky in the Right Ascension (RA) axis.
