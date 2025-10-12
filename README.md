@@ -1,4 +1,3 @@
-<img width="1259" height="414" alt="image" src="https://github.com/user-attachments/assets/e648a28a-a0db-4759-ac7e-1e974b84492e" />
 ## Hello! Welcome to my Github:
 
 ### I am an Aerospace Engineer, with experience designing and modelling high performance rockets and flight vehicles. I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and performance modelling.  
