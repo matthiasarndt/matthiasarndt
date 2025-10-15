@@ -8,7 +8,7 @@
 
 # [StarTrack](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
 
-### StarTrack is a Python package providing functionality for Astronomical image stacking, processing, star detection, and noise reduction:
+### StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
 
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82gif.gif" width="1000"/>
 
