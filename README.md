@@ -2,7 +2,7 @@
 
 ### I am an Aerospace Engineer, with experience designing and modelling high performance rockets and flight vehicles. I develop complex mathematical models and computational methods with a focus on flight physics, aerodynamics, and performance modelling.  
 
-### In my free time, I am avid astronomer. Below are several astronomy projects that I have worked on - including a software developed from scratch in Python to process and identify astronomical data, and a gallery with images I have taken of many Deep Space Objects such as nabulae, galaxies and star clusters. 
+### I am also a passionate Amateur Astronomer. Below are several projects that I am working on - including software developed from scratch in Python to process and identify astronomical data with Computer Vision, and a gallery featuring images I have taken of many Deep Space Objects such as nabulae, galaxies and star clusters. 
 
 ### Please see the links to my projects below:
 
