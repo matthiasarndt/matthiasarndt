@@ -12,7 +12,7 @@
 
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82gif.gif" width="1000"/>
 
-# [Astrophotography](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
+# [Astronomy & Photography of Deeep Space Objecs](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
 <img src="https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/Telescope.jpg" height="300">
 
