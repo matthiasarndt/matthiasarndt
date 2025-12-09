@@ -12,7 +12,7 @@
 
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82gif.gif" width="900"/>
 
-# [Astronomy & Photography of Deep Space Objects](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
+# [Deep Space Astronomy](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
 #### I have imaged many object in deep space, such as the Elephant's trunk nebula in Cepheus, seen below:
 
