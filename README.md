@@ -14,11 +14,11 @@
 
 # [Deep Space Astronomy](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
-#### I have imaged many object in deep space, such as the Elephant's trunk nebula in Cepheus, seen below:
+#### This image of the Elephant's Trunk Nebula is found in the constellation Cepheus. It comprises ~20GB of data, captured over 11 hours of total exposure, and processed into a final image. 
 
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/IC%201396%20%5BData%20-%202021-07-17%5D%20%5BProcess%202021-07-20%5D%20%5BSubmission%20Version%5D.png" width="900"/>
 
-#### To do this I use an apochromatic refractor on a motorised equatorial mount. Click the link above for more!
+#### To capture this data, I use an apochromatic refractor on a motorised equatorial mount. Click the link above for more!
 
 <img src="https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/Telescope.jpg" height="400">
 
