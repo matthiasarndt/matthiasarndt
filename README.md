@@ -10,7 +10,7 @@
 
 #### StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
 
-<img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_before_after_gif" width="900"/>
+<img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_before_after_gif.gif" width="800"/>
 
 # [Deep Space Astronomy](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
