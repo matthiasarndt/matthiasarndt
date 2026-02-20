@@ -6,7 +6,7 @@
 
 #### Please see the links to my projects below:
 
-# [StarTrack](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
+# [Astronomy Image Processing Software](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
 
 #### StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
 
