@@ -26,17 +26,17 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FF9.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-### My Projects:
+## My Projects:
 
-## [Computer Vision Software for Astronomical Data - "StarTrack"](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
+### [Computer Vision Software for Astronomical Data - "StarTrack"](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
 
 #### StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
 
 <p align="center">
-<img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_before_after_gif.gif" width="600"/>
+<img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_before_after_gif.gif" width="500"/>
 </p>
 
-## [Deep Space Astronomy Portfolio](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
+### [Deep Space Astronomy Portfolio](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
 #### The Elephant's Trunk Nebula is found in the constellation Cepheus, and is a nebula and stellar nursery. The largest star in the vicinity is the Garnet Star (in the upper left portion of the image). 
 #### This image comprises ~20GB of data, captured over 11 hours of total exposure, and processed into a final image. 
