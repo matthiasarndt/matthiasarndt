@@ -28,7 +28,7 @@
 
 ## My Projects:
 
-### [Computer Vision Software for Astronomical Data - "StarTrack"](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
+### [1. Computer Vision Software for Astronomical Data - "StarTrack"](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
 
 #### StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
 
@@ -36,7 +36,7 @@
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_before_after_gif.gif" width="500"/>
 </p>
 
-### [Deep Space Astronomy Portfolio](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
+### [2. Deep Space Astronomy Portfolio](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
 #### The Elephant's Trunk Nebula is found in the constellation Cepheus, and is a nebula and stellar nursery. The largest star in the vicinity is the Garnet Star (in the upper left portion of the image). 
 #### This image comprises ~20GB of data, captured over 11 hours of total exposure, and processed into a final image. 
