@@ -1,6 +1,6 @@
 ## Hello! I'm Matt, a Senior Aerospace Engineer:
 
-### Me:
+### About me:
 * Senior Engineer in the Aerospace & Defence industry - [LinkedIn](https://www.linkedin.com/in/matthias-arndt/).
 * Developing complex mathematical models and high-fidelity computational software methods for next-generation autonomous vehicles.
 * Specialising in advanced simulation and modeling of aerodynamics, flight dynamics, vehicle performance, and 6-DOF models.
