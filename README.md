@@ -1,7 +1,7 @@
 ## Hello! I'm Matt, a Senior Aerospace Engineer:
 
 ### About me:
-* Senior Engineer in the Aerospace & Defence industry - [LinkedIn](https://www.linkedin.com/in/matthias-arndt/).
+* Senior Engineer in the Aerospace & Defence industry ([LinkedIn](https://www.linkedin.com/in/matthias-arndt/)).
 * Developing complex mathematical models and high-fidelity computational software methods for next-generation autonomous vehicles.
 * Specialising in advanced simulation and modeling of aerodynamics, flight dynamics, vehicle performance, and 6-DOF models.
 * Graduate of Imperial College London and The University of Sheffield.
