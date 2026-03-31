@@ -1,4 +1,4 @@
-## Hello! I'm Matt, a Senior Aerospace Engineer:
+## Hello! I'm Matt, an Aerospace Engineer:
 
 ### About me:
 * Senior Engineer in the Aerospace & Defence industry ([LinkedIn](https://www.linkedin.com/in/matthias-arndt/)).
