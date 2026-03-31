@@ -41,7 +41,7 @@ StarTrack is Computer Vision (CV) software developed in Python to process Astron
 As an astrophotographer, I have taken images of many objects in Deep Space - some as far away as ~20-30 million Light Years! Click the link above to see my portfolio. 
 
 <p align="center">
-<img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Astronomy_Portfolio.png" width="750"/>
+<img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Astronomy_Portfolio1.png" width="750"/>
 </p>
 
 To do this, I use an apochromatic refractor, a newtonian reflector, a motorised mount, and open-source PID control softare to track targets:
