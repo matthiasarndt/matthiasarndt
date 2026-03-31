@@ -30,7 +30,7 @@
 
 ### [1. Computer Vision Software for Astronomical Data - "StarTrack"](https://github.com/matthiasarndt/StarTrack/blob/main/README.md)
 
-#### StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
+StarTrack is Computer Vision (CV) software developed in Python to process Astronomical data of objects in deep space - providing functionality for image processing, star detection, and noise reduction:
 
 <p align="center">
 <img src="https://github.com/matthiasarndt/StarTrack/blob/main/figures/m82_before_after_gif.gif" width="500"/>
@@ -38,17 +38,16 @@
 
 ### [2. Deep Space Astronomy Portfolio](https://github.com/matthiasarndt/Astrophotography/blob/main/README.md)
 
-#### The Elephant's Trunk Nebula is found in the constellation Cepheus, and is a nebula and stellar nursery. The largest star in the vicinity is the Garnet Star (in the upper left portion of the image). 
-#### This image comprises ~20GB of data, captured over 11 hours of total exposure, and processed into a final image. 
+As an astrophotographer, I have taken images of many objects in Deep Space - some as far away as ~20-30 million Light Years! Click the link above to see my portfolio. 
 
 <p align="center">
-<img src="https://github.com/matthiasarndt/Astrophotography/blob/main/IC%201396%20%5BData%20-%202021-07-17%5D%20%5BProcess%202021-07-20%5D%20%5BSubmission%20Version%5D.png" width="600"/>
+<img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Astronomy_Portfolio.png" width="750"/>
 </p>
 
-#### To capture this data, I use an apochromatic refractor on a motorised equatorial mount. Click the link above for more!
+To do this, I use an apochromatic refractor, a newtonian reflector, a motorised mount, and open-source PID control softare to track targets:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/matthiasarndt/Astrophotography/main/Telescope.jpg" height="300">
+<img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Astronomy_Portfolio2.png" width="750"/>
 </p>
 
 
