@@ -44,7 +44,7 @@ I have taken images of many objects in Deep Space - some as far away as ~20-30 m
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Astronomy_Portfolio1.png" width="750"/>
 </p>
 
-To do this, I use an apochromatic refractor, a newtonian reflector, a motorised mount, and open-source PID control softare to track targets:
+To do this, I use an apochromatic refractor, a newtonian reflector, a motorised mount, and open-source PID control software to track targets:
 
 <p align="center">
 <img src="https://github.com/matthiasarndt/Astrophotography/blob/main/Astronomy_Portfolio2.png" width="750"/>
