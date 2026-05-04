@@ -5,7 +5,7 @@
 * Developing complex mathematical models and high-fidelity computational software methods for next-generation autonomous vehicles.
 * Specialising in advanced simulation and modeling of aerodynamics, flight dynamics, vehicle performance, and 6-DOF models.
 * Graduate of Imperial College London and The University of Sheffield.
-* Strong proficiency in astronomy, computer vision, and ML. See my projects below!
+* Proficiency in astronomy, computer vision, and ML. See my projects below!
 
 ### My Tech Stack:
 ##### Programming Languages: 
